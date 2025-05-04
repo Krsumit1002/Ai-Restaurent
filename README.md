@@ -1,3 +1,3 @@
 # Ai-Restaurent
 
-myname is sumit
+myname is sumit kumar
